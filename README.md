@@ -16,10 +16,10 @@ Demo coming soon!
 # Installation
 
 1. Unpack or clone repository into a new directory
-2. Drop all your source images into /source-images/
-3. Edit config.php, fill in your desired image sizes
-4. Run process.php from the command line to generate the images
-5. Load in your browser to admire your catalog!
+2. Drop all your source images into /source-images/ _(for best results, ensure each filename starts or ends with a page number, E.G. babby001.png, babby002.png, etc)_
+3. Edit `config.php`, fill in your desired image sizes and quality
+4. Run `process.php` from the command line to generate the images (`php process.php`)
+5. Load in your browser to admire your generated catalog!
 
 _Note: Deleting `process.php` after you've achieved the desired result is recommended for security reasons._
 
