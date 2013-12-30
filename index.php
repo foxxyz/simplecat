@@ -39,7 +39,6 @@
 		<meta name="author" content="Ivo Janssen, Code Dealers" />
 		<link rel="stylesheet" type="text/css" media="screen" href="css/screen.css" />
 		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script type="text/javascript" src="js/modernizr.js"></script>
 		<script type="text/javascript" src="js/jquery.touchSwipe.js"></script>
 		<script type="text/javascript" src="js/main.js"></script>
 		<script type="text/javascript">
